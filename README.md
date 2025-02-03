@@ -1,4 +1,4 @@
 # Software Developer
 
-Hello, I'm Tyson, a dedicated Software Developer with a profound passion for both video games and web development. My journey in programming is fueled by a relentless pursuit of improvement, coupled with a keen ability to identify areas that can benefit from innovation. I thrive on the challenges of planning and designing software solutions to precisely meet the unique needs of each context.
+I’m a driven game developer and software developer passionate about building interactive experiences and innovative software. Currently pursuing an advanced diploma in Game Programming at Centennial College, I have hands-on expertise in game development, coding, and problem-solving. Always eager to learn and collaborate, I’m focused on contributing to creative and technical projects that push boundaries.
 
