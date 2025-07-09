@@ -30,40 +30,9 @@
 - Expanding **backend and cloud integration** skills for scalable projects.
 - Developing projects combining **game dev, web tech, and education**.
 
----
-
-## 🕹️ Featured Projects
-
-- 🎮 **Pixel Brawl** (Unity)  
-  Rogue-lite brawler with analytics and remote config integration. [Link Coming Soon]
-
-- 🖥️ **WebGL Learning Tool**  
-  A gamified education tool integrated with college platforms. [Link Coming Soon]
-
-- 🗣️ **Hackathon Voice Recognition Prototype**  
-  Built with Unity, adding voice commands to a mobile project. [Link Coming Soon]
-
----
-
-## 📊 GitHub Stats
-
-![Tyson's GitHub Stats](https://github-readme-stats.vercel.app/api?username=tysonburton&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tysonburton&layout=compact&theme=tokyonight)
-
----
-
-## ✨ Fun Fact
-
-Outside of coding, I enjoy **airsoft and strategy gaming**, often using these hobbies as inspiration for game prototypes and mechanics.
-
----
-
 ## 📫 Connect With Me
 
 - **LinkedIn:** [linkedin.com/in/tysonburton](https://www.linkedin.com/in/tysonburton) *(replace with your actual LinkedIn URL if different)*
-- **Email:** *(add if you want to display publicly)*
-- **Portfolio:** Coming Soon
-
 ---
 
 > *“Continuous improvement is better than delayed perfection.”*
