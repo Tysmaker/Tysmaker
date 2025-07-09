@@ -1,4 +1,70 @@
-# Software Developer
+# 👋 Hi, I'm Tyson Burton
 
-I’m a driven Software Developer passionate about building interactive experiences and innovative software. Currently pursuing an advanced diploma in Game Programming at Centennial College, I have hands-on expertise in web and game development, coding, and problem-solving. Always eager to learn and collaborate, I am focused on contributing to creative and technical projects that push boundaries in digital experiences.
+🎮 **Versatile Software Developer** with experience in **full-stack web, game development, and interactive learning tools**. I’m passionate about building impactful solutions through **collaboration, clean code, and continuous learning**.
+
+---
+
+## 🛠️ Tech Stack
+
+![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
+
+![Unity](https://img.shields.io/badge/Unity-000000?style=flat&logo=unity&logoColor=white)
+![Unreal Engine](https://img.shields.io/badge/Unreal-313131?style=flat&logo=unrealengine&logoColor=white)
+![3ds Max](https://img.shields.io/badge/3ds%20Max-003A60?style=flat&logo=autodesk&logoColor=white)
+
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
+
+---
+
+## 🚀 Current Focus
+- Building **gamified learning tools** using Unity + WebGL.
+- Expanding **backend and cloud integration** skills for scalable projects.
+- Developing projects combining **game dev, web tech, and education**.
+
+---
+
+## 🕹️ Featured Projects
+
+- 🎮 **Pixel Brawl** (Unity)  
+  Rogue-lite brawler with analytics and remote config integration. [Link Coming Soon]
+
+- 🖥️ **WebGL Learning Tool**  
+  A gamified education tool integrated with college platforms. [Link Coming Soon]
+
+- 🗣️ **Hackathon Voice Recognition Prototype**  
+  Built with Unity, adding voice commands to a mobile project. [Link Coming Soon]
+
+---
+
+## 📊 GitHub Stats
+
+![Tyson's GitHub Stats](https://github-readme-stats.vercel.app/api?username=tysonburton&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tysonburton&layout=compact&theme=tokyonight)
+
+---
+
+## ✨ Fun Fact
+
+Outside of coding, I enjoy **airsoft and strategy gaming**, often using these hobbies as inspiration for game prototypes and mechanics.
+
+---
+
+## 📫 Connect With Me
+
+- **LinkedIn:** [linkedin.com/in/tysonburton](https://www.linkedin.com/in/tysonburton) *(replace with your actual LinkedIn URL if different)*
+- **Email:** *(add if you want to display publicly)*
+- **Portfolio:** Coming Soon
+
+---
+
+> *“Continuous improvement is better than delayed perfection.”*
 
