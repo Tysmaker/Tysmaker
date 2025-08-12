@@ -32,7 +32,7 @@
 
 ## 📫 Connect With Me
 
-- **LinkedIn:** [linkedin.com/in/tysonburton](https://www.linkedin.com/in/tysonburton) *(replace with your actual LinkedIn URL if different)*
+- **LinkedIn:** [linkedin.com/in/tysonburton](https://www.linkedin.com/in/tysonburton)
 ---
 
 > *“Continuous improvement is better than delayed perfection.”*
